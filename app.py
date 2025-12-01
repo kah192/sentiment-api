@@ -128,10 +128,10 @@ def home():
                 color: #e0e0e0;
             }
             .positive {
-                color: #ffd700;
+                color: #10b981;
                 font-weight: bold;
                 font-size: 1.5em;
-                text-shadow: 0 0 10px rgba(255, 215, 0, 0.3);
+                text-shadow: 0 0 10px rgba(16, 185, 129, 0.3);
             }
             .negative {
                 color: #ff3333;
